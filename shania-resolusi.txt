@@ -5,4 +5,3 @@ Belajar SQLite,SQLServer,PostgreSQL
 Belajar bahasa inggris
 Mengasah skill
 Membuat usaha sendiri
-cari tutor
