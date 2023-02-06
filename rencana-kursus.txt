@@ -1,3 +1,5 @@
 product management
 bahasa inggris
 data science
+python
+baking
